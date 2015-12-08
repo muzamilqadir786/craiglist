@@ -1,0 +1,20 @@
+[1:02:28 AM] Marshall @ RealEstate-VAs: 0.) Make sure all cookies & cache is clear in whichever browser you'll be using.
+
+1.) Log on to VPN using IP address that is near to the posting location.
+
+2.) Open a new "Private" / "Incognito" Browser window.
+
+3.) Go to the Craigslist city you'll be posting.
+
+4.) Login to the PVA (Phone Verified Account).
+
+5.) Post the ad.
+
+6.) Make sure it is live.
+
+7.) Clear the Cookes / Cache (shouldn't be any if you are using Incognito... but still do it just in case).
+
+8.) Sign out, repeat for additional posts.
+[1:03:22 AM] Marshall @ RealEstate-VAs: For "1.) Log on to VPN using IP address..."
+
+I think the best approach will be for someone to manually match up our available PVAs to specific VPN IP locations (eg: Cityname, State, Witopia VPN)
